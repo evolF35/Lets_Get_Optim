@@ -1,0 +1,6 @@
+await greeter.withdraw()
+await greeter.withdraw
+greeter = await Greeter.attach("0x36b211C34F2Ee0F35f36C4Aef40983Ce427ab2A6")
+greeter = await Greeter.attach("0x106941459A8768f5A92b770e280555FAF817576f")
+Greeter = await ethers.getContractFactory("Lock")
+Greeter = await ethers.getContractFactory("Greeter")
